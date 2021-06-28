@@ -1,0 +1,4 @@
+//usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/mnt/a/Coding Languages/Design Patterns & Structures/Master the Coding Interview Big Tech (FAANG) Interviews/FAANGCode/BinaryTrees/BinaryRightSideView_Medium"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/a/Coding Languages/Design Patterns & Structures/Master the Coding Interview Big Tech (FAANG) Interviews/FAANGCode/BinaryTrees/BinaryRightSideView_Medium/cmake-build-wsl
